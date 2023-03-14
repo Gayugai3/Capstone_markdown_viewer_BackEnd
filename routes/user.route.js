@@ -9,9 +9,9 @@ import {
   updateUserByemail,
 } from "../services/user.service.js";
 
-// const clienturl = "https://celadon-unicorn-ce7898.netlify.app";
+const clienturl = "https://strong-trifle-1cbfa2.netlify.app";
 
-const clienturl = "http://localhost:3000";
+// const clienturl = "http://localhost:3000";
 
 const router = express.Router();
 
